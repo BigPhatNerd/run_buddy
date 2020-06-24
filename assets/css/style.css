@@ -291,3 +291,10 @@ address a {
 address {
     color: grey;
 }
+
+.hero-secondary {
+    margin: 20px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
+}
